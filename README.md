@@ -9,7 +9,7 @@
 
 ## ⚡ What is TeslaScript?
 
-TeslaScript is a lightweight programming language designed for fast scripting, automation, and creativity.  
+TeslaScript is a lightweight programming language designed for fast scripting and creativity.  
 It combines simple syntax with powerful functionality — perfect for learning or building small scripts.
 
 Click <a href="https://teslascript.pages.dev">here</a> to access the official TeslaScript Website.
@@ -36,18 +36,23 @@ Click <a href="https://teslascript.pages.dev">here</a> to access the official Te
 
 **Note:**  
 > Windows SmartScreen may warn you because TeslaScript is new. Click **"More Info" → "Run Anyway"** — it's safe!
+<br>
+➡️ Move the executable to `C:\Users\YourUsername\`
+<br>
+<br>
+or
+<br>
+<br>
+➡️ Copy the path where the teslascript interpreter was downloaded and create an environment variable in the path variable. (Sorry for the not-good explantaion)
+
 ---
 Please report any bugs to the Issues tab.
 <br>
-
 ## 🚀 Quick Start
 
 Open the TeslaScript interpreter or run a `.tesla` file:
 
 ```bash
-teslascript
+teslascript filename.tesla
 ```
- or
-```bash
-ts
-```
+
